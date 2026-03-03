@@ -1,1 +1,36 @@
-# BurgerMurger
+# 🍔 BurgerMurger
+
+24년도 1학기 **웹페이지저작기초** 과목 개인 프로젝트 ― 버거 전문 웹사이트 프로젝트입니다.  
+메인, 소개, 커뮤니티, 프랜차이즈, 수제 메뉴 등 여러 페이지로 구성된 정적인 웹 페이지입니다.
+
+---
+
+## 📌 프로젝트 소개
+
+**BurgerMurger**는 HTML, CSS 기반으로 제작된 정적 웹사이트 프로젝트입니다.  
+사용자에게 다양한 버거 정보와 커뮤니티, 프랜차이즈 안내 등을 제공하는 구성을 목표로 했습니다.
+
+- 메인 페이지 (`index.html`)
+- 소개 페이지 (`about.html`)
+- 커뮤니티 안내 (`community.html`)
+- 프랜차이즈 정보 (`franchise.html`)
+- 수제 햄버거 가게 소개 (`handmade.html`)
+- 공통 스타일 파일 (`style.css`)
+- 이미지 리소스 (`images/`)
+- 기획서 문서 (`…기획서.pdf`)
+
+---
+
+## 🛠 사용 기술
+
+✔️ HTML  
+✔️ CSS  
+✔️ 정적 웹페이지 구성
+
+---
+
+## 🧭 실행 방법
+
+1. 저장소를 로컬로 클론합니다.
+   ```bash
+   git clone https://github.com/bsy52823/BurgerMurger.git
