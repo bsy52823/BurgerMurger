@@ -26,11 +26,3 @@
 ✔️ HTML  
 ✔️ CSS  
 ✔️ 정적 웹페이지 구성
-
----
-
-## 🧭 실행 방법
-
-1. 저장소를 로컬로 클론합니다.
-   ```bash
-   git clone https://github.com/bsy52823/BurgerMurger.git
